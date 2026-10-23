@@ -1,0 +1,3 @@
+-- Configuração do GIT
+git config --global user.name isassanon
+git config --global user.email isabelagomesmachado05@gmail.com
